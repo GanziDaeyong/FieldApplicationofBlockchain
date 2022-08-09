@@ -5,5 +5,5 @@
 #### Stack : 
 Frontend - Vuejs  
 Backend - Nodejs  
-Contract - Openzeppelin, Truffle  
+Contract - Solidity, Openzeppelin, Truffle  
 Cloud(Front, Back deployment) - AWS EC2, cloudinary
